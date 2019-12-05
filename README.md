@@ -33,3 +33,8 @@ instagram clone with Express + Prisma + React and React Native
 <pre>
     프로젝트가 babel을 인식할 수 있도록 설정.
 </pre>
+
+8. yarn add morgan
+   <pre>
+       logger 전용 모듈 미들웨어
+   </pre>
