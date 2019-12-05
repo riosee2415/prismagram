@@ -5,7 +5,7 @@ instagram clone with Express + Prisma + React and React Native
 ## DevOps
 
 1. yarn add nodemon -D
-2. yarn add babel-cli -D
+2. yarn add @babel-cli -D
 3. create src/server.js
 4. create nodemon.json
 
@@ -44,3 +44,5 @@ instagram clone with Express + Prisma + React and React Native
 
 - graphql-tools
 - merge-graphql-schemas
+
+## prisma setting
