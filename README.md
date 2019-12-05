@@ -35,6 +35,12 @@ instagram clone with Express + Prisma + React and React Native
 </pre>
 
 8. yarn add morgan
-   <pre>
-       logger 전용 모듈 미들웨어
-   </pre>
+
+<pre>
+    logger 전용 모듈 미들웨어
+</pre>
+
+## Graphql Settings... Install
+
+- graphql-tools
+- merge-graphql-schemas
