@@ -51,7 +51,9 @@ Instagram colne with Express + Prisma + React and React Native
 
 ## User Stories
 
-- [ ] Log in
+- [x] Create account
+- [ ] Request Secret
+- [ ] Comfirm Secret (Log in)
 - [ ] Lie / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Serach by user
@@ -60,7 +62,6 @@ Instagram colne with Express + Prisma + React and React Native
 - [ ] Follow / Unfoloow User
 - [ ] Se the full photo
 - [ ] Edit my profile
-- [ ] Create account
 - [ ] Upload a Photo
 - [ ] Edit a Photo (Delete)
 - [ ] See the feed

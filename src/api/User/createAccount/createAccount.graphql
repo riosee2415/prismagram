@@ -3,7 +3,11 @@ type Mutation {
     userName: String!
     email: String!
     firstName: String
-    LastName: String
+    lastName: String
     bio: String
   ): User!
+}
+
+type Query {
+  something: String!
 }
