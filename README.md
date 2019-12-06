@@ -45,4 +45,22 @@ instagram clone with Express + Prisma + React and React Native
 - graphql-tools
 - merge-graphql-schemas
 
-## prisma setting
+## Prismagram
+
+Instagram colne with Express + Prisma + React and React Native
+
+## User Stories
+
+- [ ] Log in
+- [ ] Lie / Unlike a photo
+- [ ] Comment on a photo
+- [ ] Serach by user
+- [ ] Search by location
+- [ ] See user porifile
+- [ ] Follow / Unfoloow User
+- [ ] Se the full photo
+- [ ] Edit my profile
+- [ ] Create account
+- [ ] Upload a Photo
+- [ ] Edit a Photo (Delete)
+- [ ] See the feed
