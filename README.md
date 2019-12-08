@@ -52,8 +52,8 @@ Instagram colne with Express + Prisma + React and React Native
 ## User Stories
 
 - [x] Create account
-- [ ] Request Secret
-- [ ] Comfirm Secret (Log in)
+- [x] Request Secret
+- [x] Comfirm Secret (Log in)
 - [ ] Lie / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Serach by user
