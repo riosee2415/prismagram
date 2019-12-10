@@ -56,7 +56,7 @@ Instagram colne with Express + Prisma + React and React Native
 - [x] Comfirm Secret (Log in)
 - [x] Like / Unlike a photo
 - [x] Comment on a photo
-- [ ] Serach by user
+- [x] Serach by user
 - [ ] Search by location
 - [ ] See user porifile
 - [ ] Follow / Unfoloow User
