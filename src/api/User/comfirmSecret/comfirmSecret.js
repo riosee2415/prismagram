@@ -8,6 +8,14 @@ export default {
 
       const user = await prisma.user({ email });
       if (user.loginSecret === secret) {
+        await prisma.updateUser({
+          where: {
+            id: user.id
+          },
+          data: {
+            loginSecret: ""
+          }
+        });
         return geerateToken(user.id);
       } else {
         throw Error("Wrong email / secret conbination");
