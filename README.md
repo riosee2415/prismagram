@@ -2,7 +2,7 @@
 
 instagram clone with Express + Prisma + React and React Native
 
-## DevOps
+## DevOps -
 
 1. yarn add nodemon -D
 2. yarn add @babel-cli -D
