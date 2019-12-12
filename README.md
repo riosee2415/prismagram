@@ -61,7 +61,7 @@ Instagram colne with Express + Prisma + React and React Native
 - [x] Follow / Unfoloow User
 - [x] Edit my profile
 - [x] See user porifile
-- [ ] See my profile
+- [x] See My profile
 - [ ] Se the full photo
 - [ ] Upload a Photo
 - [ ] Edit a Photo (Delete)
