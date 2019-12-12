@@ -59,9 +59,10 @@ Instagram colne with Express + Prisma + React and React Native
 - [x] Serach by user
 - [x] Search by location
 - [x] Follow / Unfoloow User
-- [ ] See user porifile
+- [x] Edit my profile
+- [x] See user porifile
+- [ ] See my profile
 - [ ] Se the full photo
-- [ ] Edit my profile
 - [ ] Upload a Photo
 - [ ] Edit a Photo (Delete)
 - [ ] See the feed
