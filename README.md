@@ -66,3 +66,6 @@ Instagram colne with Express + Prisma + React and React Native
 - [ ] Upload a Photo
 - [ ] Edit a Photo (Delete)
 - [ ] See the feed
+- [ ] See Room
+- [ ] Send private Message
+- [ ] Receive Message (RealTime)

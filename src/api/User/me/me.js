@@ -18,10 +18,5 @@ export default {
 
       //return prisma.user({ id: user.id }).$fragment(USER_FRAGMENT);
     }
-  },
-  User: {
-    fullName: (parent, __, { request }) => {
-      return `${parent.firstName} ${parent.lastName}`;
-    }
   }
 };
