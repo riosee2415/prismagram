@@ -70,3 +70,16 @@ Instagram colne with Express + Prisma + React and React Native
 - [x] See Rooms
 - [ ] In Room
 - [ ] Receive Message (RealTime)
+
+## Login JWT
+
+<pre>
+  mutation {
+    confirmSecret(secret : "email secret code", email : "your email")
+  }
+
+  ==>  Provide JWT
+
+  [HTTP HEADERS]
+  {"Authorization : "Bearer -JWT-"}
+</pre>
