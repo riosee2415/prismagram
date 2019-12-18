@@ -66,10 +66,10 @@ Instagram colne with Express + Prisma + React and React Native
 - [x] Upload a Photo
 - [x] Edit a Photo (Delete)
 - [x] See the feed
-- [ ] Send private Message
+- [x] Send private Message
 - [x] See Rooms
-- [ ] In Room
-- [ ] Receive Message (RealTime)
+- [x] In Room
+- [x] Receive Message (RealTime)
 
 ## Login JWT
 
